@@ -77,13 +77,13 @@
   artist: Six-Valentine
 
 - type: lobbyBackground
-  id: VarvaraHeretic
+  id: SecMakeover
   background: /Textures/_Impstation/LobbyScreens/sec_makeover.webp
   name: Sec Makeover
   artist: Wendy, Pixel Curatrix
 
 - type: lobbyBackground
-  id: VarvaraHeretic
+  id: StaresBlankly
   background: /Textures/_Impstation/LobbyScreens/stares_blankly.webp
   name: stares blankly
   artist: Wendy, Pixel Curatrix
